@@ -15,5 +15,18 @@ Recibiendo objetos: 100% (3/3), listo.
 ## Creamos un nuevo Branch o Rama para los nuevos cambios
 
 ```code
+bae2@jpexposito-VirtualBox:~/Documentos/Ejercicio-branch$ git add Ejercicio2.java 
+bae2@jpexposito-VirtualBox:~/Documentos/Ejercicio-branch$ git branch 
+ejercicio1-branch          HEAD                       origin/ejercicio1-branch   origin/main 
+ejercicio.java             main                       origin/HEAD                
+bae2@jpexposito-VirtualBox:~/Documentos/Ejercicio-branch$ git branch Ejercicio2.java
+bae2@jpexposito-VirtualBox:~/Documentos/Ejercicio-branch$ code .
+bae2@jpexposito-VirtualBox:~/Documentos/Ejercicio-branch$ git checkout -b
+error: switch `b' requiere un valor
+bae2@jpexposito-VirtualBox:~/Documentos/Ejercicio-branch$ git checkout -b Ejercicio2.java
+fatal: Una rama llamada 'Ejercicio2.java' ya existe.
+bae2@jpexposito-VirtualBox:~/Documentos/Ejercicio-branch$ ^C
+bae2@jpexposito-VirtualBox:~/Documentos/Ejercicio-branch$ 
+
 
 ```
