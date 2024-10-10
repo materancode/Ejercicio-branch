@@ -33,3 +33,11 @@ bae2@jpexposito-VirtualBox:~/Documentos/Ejercicio-branch$
 
 ## Se incluye el commit
 
+```code 
+bae2@jpexposito-VirtualBox:~/Documentos/Ejercicio-branch$ git add README.md
+bae2@jpexposito-VirtualBox:~/Documentos/Ejercicio-branch$ git commit -m "Se añade el ejercicio3"
+[Ejercicio3.java 4118671] Se añade el ejercicio3
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+bae2@jpexposito-VirtualBox:~/Documentos/Ejercicio-branch$ 
+
+```
